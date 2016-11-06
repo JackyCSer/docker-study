@@ -28,4 +28,3 @@ EXPOSE 8080
 
 ENTRYPOINT [ "/usr/local/bin/dockerjenkins.sh" ]
 
-
